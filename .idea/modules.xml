@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/18_SpringBatch_Demo12_Tasklet_Kafka.iml" filepath="$PROJECT_DIR$/.idea/18_SpringBatch_Demo12_Tasklet_Kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.batch.demo12/spring.batch.demo12.iml" filepath="$PROJECT_DIR$/spring.batch.demo12/spring.batch.demo12.iml" />
     </modules>
   </component>
 </project>
